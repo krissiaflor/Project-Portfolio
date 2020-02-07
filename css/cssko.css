@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Heading{
+    background: linear-gradient(rgba(135, 207, 235, 0.76),rgba(255, 192, 203, 0.616)),url(../pic/blossom.jpg);
+    background-size: cover;
+    width: auto;
+    height: 800px;
+}
+#pic{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: pink solid 2px;
+    text-align: center;
+    position: relative;
+    top: 40px;  
+}
+#Welcome{
+    font-size: 46px;
+    padding-top: 50px;
+    font-style: bold;
+    font-family: cursive;
+    text-align: center;
+    color: darkmagenta;    
+}
+#sub{
+    font-size: 28px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 5rem;
+}
+.spaces{
+    padding-top: 20px;
+}
+body{
+    background: rgba(245, 215, 220, 0.438);
+    text-align: center;
+}
+.space{
+    padding: 50px;
+}
+.intro{
+    text-align: center;
+}
+#ken{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin: auto;
+    border: pink solid 2px;
+}
+#Greet{
+    font-size: 32px;
+    font-family: cursive;
+    color: rgb(0, 130, 182);
+    font-style: oblique;
+    line-height: 4rem;
+}
+#inside{
+font-style: italic;
+font-size: 24px;
+}
+.spacing{
+    padding: 50px;
+}
+#my{
+    font-size: 40px;
+    font-family: cursive;
+    font-style: normal;
+    color: rgb(0, 144, 201);
+    line-height: 10rem;
+}
+#gear{
+    position: relative;
+    bottom: 50px;
+    height: 75px;
+    width: 75px;
+    border-radius: 100%;
+}
+#Listener,#Pretender,#Nocturnal{
+    font-size: 32px;
+    font-family: cursive;
+    font-style: normal;
+    color: rgb(12, 174, 238);
+    line-height: 4rem;
+}
+#music, #mental, #owl,#hand{
+    position: relative;
+    bottom: 10px;
+    height: 75px;
+    width: 75px;
+    border-radius: 100%;
+}
+#under,#bottom,#noctu{
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+.underspace,.bottomspace{
+    padding: 20px 75px;
+}
+
+.noctuspace{
+    padding: 75px 0px 50px;
+}
+#touch{
+    font-size: 40px;
+    font-family: cursive;
+    font-style: normal;
+    color: rgb(0, 144, 201);
+    line-height: 4rem;
+}
+#more{
+    font-style: normal;
+    font-size: 20px;
+    font-family: cursive;
+    padding-bottom: 250px;
+}
+.last{
+    text-align: center;
+    padding: 30px;
+    font-family: serif;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+    background: linear-gradient(rgba(255, 192, 203, 0.616),rgba(135, 207, 235, 0.76)),url(../pic/blossom.jpg);
+    background-size: cover;
+}
+.social{
+    margin: 0 1rem;
+}
+span{
+    display: block;
+    
+}
